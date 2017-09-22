@@ -1,0 +1,99 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="educationportal.com.Admin.Admin" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Admin@educationportal</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder> 
+
+    <style type="text/css">
+    .body
+    {
+        width:1000px;
+        margin-left:auto;
+        }
+    </style>
+    <link href="../css/demo.css" rel="stylesheet" type="text/css" />
+    <link href="../css/css_dropdown_style.css" rel="stylesheet" type="text/css" />
+        <link href="../css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    <table>
+    <tr>
+        <td style="height:100px;">
+        
+           
+        <div class="MenuHorizontal">
+
+
+            <header>
+                <nav class="codrops-top">
+                    <div id="nav_ed">
+                    
+                    <li>
+                    <a class="fly_ed" href="../Default.aspx">Home</a>
+                    </li>
+                    <li>
+                    <a class="fly_ed" href="files.aspx">Files</a>
+					</li>
+                    <li>
+                    <a class="fly_ed" href="users.aspx">Users</a>
+					</li>
+                    <li>
+                    <a class="fly_ed" href="suggestedbooks.aspx">Suggested Books</a>
+                    </li>
+                    <li>
+                    <a class="fly_ed" href="posts.aspx">Posts</a>
+                    </li>
+                    <li>
+                    <a class="fly_ed" href="messages.aspx">Messages</a>
+                    </li>
+                    <li>
+                    <a id="go_back" href="javascript:history.go(-1)">Back</a>
+                    </li>
+                    
+                    
+                    </div>
+                    <br/>
+                            <p style="font-size:18px;float:right;">
+                            <asp:Label ID="lblLoginStatus" style="font-style:italic;color:Maroon;" runat="server"></asp:Label>
+                            <br/>
+                            <asp:LinkButton ID="LinkButton1" style="font-style:oblique;color:Red;" runat="server" onclick="LinkButton1_Click"/>
+                            </p>
+                        
+<%--                    <asp:Button ID="Button1" runat="server" 
+                style="float:right;width:65px;height:35px;" Text="Signout" 
+                onclick="Button1_Click" />--%>
+
+
+
+				</nav>
+            </header>
+        
+            
+
+        </div>
+        
+        </td>
+
+    </tr>
+    <tr>
+        <td>
+            <asp:ContentPlaceHolder ID="Content" runat="server" />
+        </td>
+    </tr>
+    </table>
+
+        
+
+
+
+
+    </div>
+    </form>
+</body>
+</html>

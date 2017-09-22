@@ -1,0 +1,637 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3E9EE994-1092-45A8-B62A-2AAA78621875}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>educationportal.com</RootNamespace>
+    <AssemblyName>educationportal.com</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.AspNet.SignalR.Core">
+      <HintPath>..\packages\Microsoft.AspNet.SignalR.Core.1.1.3\lib\net40\Microsoft.AspNet.SignalR.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.SignalR.Owin">
+      <HintPath>..\packages\Microsoft.AspNet.SignalR.Owin.1.1.3\lib\net40\Microsoft.AspNet.SignalR.Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.SignalR.SystemWeb">
+      <HintPath>..\packages\Microsoft.AspNet.SignalR.SystemWeb.1.1.3\lib\net40\Microsoft.AspNet.SignalR.SystemWeb.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Owin.Host.SystemWeb">
+      <HintPath>..\packages\Microsoft.Owin.Host.SystemWeb.1.0.1\lib\net40\Microsoft.Owin.Host.SystemWeb.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Infrastructure">
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.4.5.11\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Owin">
+      <HintPath>..\packages\Owin.1.0\lib\net40\Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="About.aspx" />
+    <Content Include="Account\ChangePassword.aspx" />
+    <Content Include="Account\ChangePasswordSuccess.aspx" />
+    <Content Include="Account\Login.aspx" />
+    <Content Include="Account\Register.aspx" />
+    <Content Include="adminloginprompt.aspx" />
+    <Content Include="Admin\adminBooks.aspx" />
+    <Content Include="Admin\Admin_Login.aspx" />
+    <Content Include="Admin\files.aspx" />
+    <Content Include="Admin\filesAdmin.aspx" />
+    <Content Include="Admin\messages.aspx" />
+    <Content Include="Admin\posts.aspx" />
+    <Content Include="Admin\suggestedbooks.aspx" />
+    <Content Include="Admin\users.aspx" />
+    <Content Include="bin\educationportal.com.dll" />
+    <Content Include="bin\educationportal.com.pdb" />
+    <Content Include="blog.aspx" />
+    <Content Include="collegesearch-2.aspx" />
+    <Content Include="collegesearch-3.aspx" />
+    <Content Include="collegesearch.aspx" />
+    <Content Include="css\animate-custom.css" />
+    <Content Include="css\bannerscollection_zoominout.css" />
+    <Content Include="css\css_dropdown_style.css" />
+    <Content Include="css\demo.css" />
+    <Content Include="css\font\Dharma Type Font License.txt" />
+    <Content Include="css\jpaginatestyle.css" />
+    <Content Include="css\jquery-ui.css" />
+    <Content Include="css\jquery.ui.base.css" />
+    <Content Include="css\jquery.ui.theme.css" />
+    <Content Include="css\jquery.ui.tooltip.css" />
+    <Content Include="css\jTPS.css" />
+    <Content Include="css\menu.css" />
+    <Content Include="css\Resources.css" />
+    <Content Include="css\s3Slider.css" />
+    <Content Include="css\scroll.css" />
+    <Content Include="css\style.css" />
+    <Content Include="css\uploadify.css" />
+    <Content Include="css\verticalMenu_styles.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="discussionn.aspx" />
+    <Content Include="Education\1389206500_exclamation.png" />
+    <Content Include="Education\blank.png" />
+    <Content Include="Education\blog.png" />
+    <Content Include="Education\book-icon-forum.jpg" />
+    <Content Include="Education\book-image.jpg" />
+    <Content Include="Education\community-icon%281%29.png" />
+    <Content Include="Education\community-v2.jpg" />
+    <Content Include="Education\down.png" />
+    <Content Include="Education\error.jpg" />
+    <Content Include="Education\Facebook-Icon.png" />
+    <Content Include="Education\fblogin.png" />
+    <Content Include="Education\get involved.jpg" />
+    <Content Include="Education\get-involved.jpg" />
+    <Content Include="Education\getInvolved.png" />
+    <Content Include="Education\habicon.png" />
+    <Content Include="Education\images\andmore.jpg" />
+    <Content Include="Education\images\arrow.gif" />
+    <Content Include="Education\images\australia award.png" />
+    <Content Include="Education\images\daad.jpg" />
+    <Content Include="Education\images\documents.jpg" />
+    <Content Include="Education\images\erasmus mundus.png" />
+    <Content Include="Education\images\fullbright.png" />
+    <Content Include="Education\images\image1.jpg" />
+    <Content Include="Education\images\image2.jpg" />
+    <Content Include="Education\images\image3.jpg" />
+    <Content Include="Education\images\image4.jpg" />
+    <Content Include="Education\images\image5.jpg" />
+    <Content Include="Education\images\image6.jpg" />
+    <Content Include="Education\images\indian embassy.png" />
+    <Content Include="Education\images\moe.png" />
+    <Content Include="Education\images\notes.png" />
+    <Content Include="Education\images\project.png" />
+    <Content Include="Education\images\pu.png" />
+    <Content Include="Education\images\test.png" />
+    <Content Include="Education\images\tr75.png" />
+    <Content Include="Education\image_gallery.jpg" />
+    <Content Include="Education\kpdf.png" />
+    <Content Include="Education\Learning_Resource_Icons.png" />
+    <Content Include="Education\pmo-resources-Icon.png" />
+    <Content Include="Education\pref.png" />
+    <Content Include="Education\student.png" />
+    <Content Include="Education\students.jpg" />
+    <Content Include="Education\Tell-Us-Poster-new-small.png" />
+    <Content Include="Education\tsanimate1.gif" />
+    <Content Include="Education\up-icon2.png" />
+    <Content Include="Education\wow-contribution-icon.jpg" />
+    <Content Include="Education\writetous.png" />
+    <Content Include="error.aspx" />
+    <Content Include="fileCollection.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="images\137039.JPG" />
+    <Content Include="images\ActiveMenuButton.png" />
+    <Content Include="images\ActiveMenuButtonAnchor.png" />
+    <Content Include="images\ad1.png" />
+    <Content Include="images\ArticleCenter.png" />
+    <Content Include="images\ArticleCorners.png" />
+    <Content Include="images\ArticleHorizontal.png" />
+    <Content Include="images\ArticleVertical.png" />
+    <Content Include="images\back.png" />
+    <Content Include="images\BackgroundGradient.png" />
+    <Content Include="images\backlogo.png" />
+    <Content Include="images\BlockCenter.png" />
+    <Content Include="images\BlockContentBorderCenter.png" />
+    <Content Include="images\BlockContentBorderCorners.png" />
+    <Content Include="images\BlockContentBorderHorizontal.png" />
+    <Content Include="images\BlockContentBorderVertical.png" />
+    <Content Include="images\BlockCorners.png" />
+    <Content Include="images\BlockHeader.png" />
+    <Content Include="images\BlockHeaderAnchor.png" />
+    <Content Include="images\BlockHorizontal.png" />
+    <Content Include="images\BlockVertical.png" />
+    <Content Include="images\border-image.png" />
+    <Content Include="images\BorderCenter.png" />
+    <Content Include="images\BorderCorners.png" />
+    <Content Include="images\BorderHorizontal.png" />
+    <Content Include="images\BorderVertical.png" />
+    <Content Include="images\Button.png" />
+    <Content Include="images\ButtonAnchor.png" />
+    <Content Include="images\cancel.gif" />
+    <Content Include="images\contactUs.png" />
+    <Content Include="images\educationportal_final2.png" />
+    <Content Include="images\Footer.png" />
+    <Content Include="images\forum.png" />
+    <Content Include="images\freebooks.png" />
+    <Content Include="images\Header.png" />
+    <Content Include="images\home.png" />
+    <Content Include="images\icons.png" />
+    <Content Include="images\info.png" />
+    <Content Include="images\key.png" />
+    <Content Include="images\key2.png" />
+    <Content Include="images\login.png" />
+    <Content Include="images\logout.png" />
+    <Content Include="images\logo_lock2.png" />
+    <Content Include="images\MenuBar.png" />
+    <Content Include="images\MenuButton.png" />
+    <Content Include="images\MenuButtonAnchor.png" />
+    <Content Include="images\MenuHorizontal.png" />
+    <Content Include="images\navigation.jpg" />
+    <Content Include="images\PleaseWait.gif" />
+    <Content Include="images\profile-trans.png" />
+    <Content Include="images\school_logo.jpg" />
+    <Content Include="images\student-boy-icon.png" />
+    <Content Include="images\student.png" />
+    <Content Include="images\white_back.png" />
+    <Content Include="images\white_backed.png" />
+    <Content Include="img\125.png" />
+    <Content Include="img\126.png" />
+    <Content Include="img\127.png" />
+    <Content Include="img\128.png" />
+    <Content Include="img\129.png" />
+    <Content Include="img\about.png" />
+    <Content Include="img\accept.png" />
+    <Content Include="img\adv1.jpg" />
+    <Content Include="img\adv2.jpg" />
+    <Content Include="img\aj.jpg" />
+    <Content Include="img\apex.jpg" />
+    <Content Include="img\apex1.jpg" />
+    <Content Include="img\apex2.jpg" />
+    <Content Include="img\apex3.jpg" />
+    <Content Include="img\arrows.png" />
+    <Content Include="img\bg-scrollbar-thumb-y.png" />
+    <Content Include="img\bg-scrollbar-track-y.png" />
+    <Content Include="img\bg-scrollbar-trackend-y.png" />
+    <Content Include="img\bg.png" />
+    <Content Include="img\BLOGS.jpg" />
+    <Content Include="img\Blue.png" />
+    <Content Include="img\codrops_back.png" />
+    <Content Include="img\COLLEGESEARCCH.jpg" />
+    <Content Include="img\Collegesearch.jpg" />
+    <Content Include="img\Collegesearch.png" />
+    <Content Include="img\colsrch.jpg" />
+    <Content Include="img\downloadbutton.png" />
+    <Content Include="img\fd.jpg" />
+    <Content Include="img\header_bkg.png" />
+    <Content Include="img\images.jpg" />
+    <Content Include="img\library-icon.png" />
+    <Content Include="img\My-Ebooks-icon.png" />
+    <Content Include="img\participate.jpg" />
+    <Content Include="img\pbl.jpg" />
+    <Content Include="img\pdf.jpg" />
+    <Content Include="img\Project.png" />
+    <Content Include="img\row_bkg.png" />
+    <Content Include="img\Scholarship logo%281%29.png" />
+    <Content Include="img\scholarship.jpg" />
+    <Content Include="img\share-and-learn-150x150.png" />
+    <Content Include="img\sharing-overlay-icon.png" />
+    <Content Include="img\Test-paper-icon.png" />
+    <Content Include="img\tests-icon.png" />
+    <Content Include="img\tf.jpg" />
+    <Content Include="img\uploadify-cancel.png" />
+    <Content Include="img\uploadify.swf" />
+    <Content Include="img\vh.jpg" />
+    <Content Include="Joinin.aspx" />
+    <Content Include="Login.aspx" />
+    <Content Include="master_style.css" />
+    <Content Include="obj\Debug\educationportal.com.csproj.FileListAbsolute.txt" />
+    <Content Include="scholarships.aspx" />
+    <Content Include="scripts\ajaxupload.js" />
+    <Content Include="scripts\bannerscollection_zoominout.js" />
+    <Content Include="scripts\droparea.js" />
+    <Content Include="scripts\imagesloaded.pkgd.js" />
+    <Content Include="scripts\jquery-1.2.6.pack.js" />
+    <Content Include="scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="scripts\jquery-1.4.1.js" />
+    <Content Include="scripts\jquery-1.4.1.min.js" />
+    <Content Include="scripts\jquery-1.6.4-vsdoc.js" />
+    <Content Include="scripts\jquery-1.6.4.js" />
+    <Content Include="scripts\jquery-1.6.4.min.js" />
+    <Content Include="scripts\jquery-1.8.2.intellisense.js" />
+    <Content Include="scripts\jquery-1.8.2.js" />
+    <Content Include="scripts\jquery-1.9.1.js" />
+    <Content Include="scripts\jquery-1.9.1.min.js" />
+    <Content Include="scripts\jquery-ui.js" />
+    <Content Include="scripts\jquery.fileupload.js" />
+    <Content Include="scripts\jquery.iframe-transport.js" />
+    <Content Include="scripts\jquery.knob.js" />
+    <Content Include="scripts\jquery.paginate.js" />
+    <Content Include="scripts\jquery.signalR-1.1.3.js" />
+    <Content Include="scripts\jquery.signalR-1.1.3.min.js" />
+    <Content Include="scripts\jquery.signalR-2.0.0-rc1.js" />
+    <Content Include="scripts\jquery.signalR-2.0.0-rc1.min.js" />
+    <Content Include="scripts\jquery.tinyscrollbar.min.js" />
+    <Content Include="scripts\jquery.ui.accordion.js" />
+    <Content Include="css\jquery.ui.all.css" />
+    <Content Include="scripts\jquery.ui.button.js" />
+    <Content Include="scripts\jquery.ui.core.js" />
+    <Content Include="scripts\jquery.ui.dialog.js" />
+    <Content Include="scripts\jquery.ui.draggable.js" />
+    <Content Include="scripts\jquery.ui.effect-blind.js" />
+    <Content Include="scripts\jquery.ui.effect-explode.js" />
+    <Content Include="scripts\jquery.ui.effect.js" />
+    <Content Include="scripts\jquery.ui.menu.js" />
+    <Content Include="scripts\jquery.ui.mouse.js" />
+    <Content Include="scripts\jquery.ui.position.js" />
+    <Content Include="scripts\jquery.ui.resizable.js" />
+    <Content Include="scripts\jquery.ui.tooltip.js" />
+    <Content Include="scripts\jquery.ui.touch-punch.min.js" />
+    <Content Include="scripts\jquery.ui.widget.js" />
+    <Content Include="scripts\jquery.uploadify.js" />
+    <Content Include="scripts\jquery.uploadify.min.js" />
+    <Content Include="scripts\jsrender.js" />
+    <Content Include="scripts\jTPS.js" />
+    <Content Include="scripts\knockout-2.3.0.js" />
+    <Content Include="scripts\modernizr-2.6.2.js" />
+    <Content Include="scripts\Resources.js" />
+    <Content Include="scripts\ResourcesExpand.js" />
+    <Content Include="scripts\s3Slider.js" />
+    <Content Include="scripts\sliderFunction.js" />
+    <Content Include="scripts\tabs.js" />
+    <Content Include="searchbook.aspx" />
+    <Content Include="Student.aspx" />
+    <Content Include="TestingEucationPortal.csproj" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AASSHH.Master.cs">
+      <DependentUpon>AASSHH.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AASSHH.Master.designer.cs">
+      <DependentUpon>AASSHH.Master</DependentUpon>
+    </Compile>
+    <Compile Include="About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="About.Master.cs">
+      <DependentUpon>About.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.Master.designer.cs">
+      <DependentUpon>About.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Account\ChangePassword.aspx.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\ChangePassword.aspx.designer.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\ChangePasswordSuccess.aspx.cs">
+      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\ChangePasswordSuccess.aspx.designer.cs">
+      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminloginprompt.aspx.cs">
+      <DependentUpon>adminloginprompt.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminloginprompt.aspx.designer.cs">
+      <DependentUpon>adminloginprompt.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Admin.Master.cs">
+      <DependentUpon>Admin.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Admin.Master.designer.cs">
+      <DependentUpon>Admin.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\adminBooks.aspx.cs">
+      <DependentUpon>adminBooks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\adminBooks.aspx.designer.cs">
+      <DependentUpon>adminBooks.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Admin_Login.aspx.cs">
+      <DependentUpon>Admin_Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Admin_Login.aspx.designer.cs">
+      <DependentUpon>Admin_Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\files.aspx.cs">
+      <DependentUpon>files.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\files.aspx.designer.cs">
+      <DependentUpon>files.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\filesAdmin.aspx.cs">
+      <DependentUpon>filesAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\filesAdmin.aspx.designer.cs">
+      <DependentUpon>filesAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\messages.aspx.cs">
+      <DependentUpon>messages.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\messages.aspx.designer.cs">
+      <DependentUpon>messages.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\posts.aspx.cs">
+      <DependentUpon>posts.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\posts.aspx.designer.cs">
+      <DependentUpon>posts.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\suggestedbooks.aspx.cs">
+      <DependentUpon>suggestedbooks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\suggestedbooks.aspx.designer.cs">
+      <DependentUpon>suggestedbooks.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\users.aspx.cs">
+      <DependentUpon>users.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\users.aspx.designer.cs">
+      <DependentUpon>users.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="blog.aspx.cs">
+      <DependentUpon>blog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="blog.aspx.designer.cs">
+      <DependentUpon>blog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="collegesearch-2.aspx.cs">
+      <DependentUpon>collegesearch-2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="collegesearch-2.aspx.designer.cs">
+      <DependentUpon>collegesearch-2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="collegesearch-3.aspx.cs">
+      <DependentUpon>collegesearch-3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="collegesearch-3.aspx.designer.cs">
+      <DependentUpon>collegesearch-3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="collegesearch.aspx.cs">
+      <DependentUpon>collegesearch.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="collegesearch.aspx.designer.cs">
+      <DependentUpon>collegesearch.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="discussionn.aspx.cs">
+      <DependentUpon>discussionn.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="discussionn.aspx.designer.cs">
+      <DependentUpon>discussionn.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="educationMaster.Master.cs">
+      <DependentUpon>educationMaster.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="educationMaster.Master.designer.cs">
+      <DependentUpon>educationMaster.Master</DependentUpon>
+    </Compile>
+    <Compile Include="error.aspx.cs">
+      <DependentUpon>error.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="error.aspx.designer.cs">
+      <DependentUpon>error.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="fileCollection.aspx.cs">
+      <DependentUpon>fileCollection.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="fileCollection.aspx.designer.cs">
+      <DependentUpon>fileCollection.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FileHandler.ashx.cs">
+      <DependentUpon>FileHandler.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Joinin.aspx.cs">
+      <DependentUpon>Joinin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Joinin.aspx.designer.cs">
+      <DependentUpon>Joinin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPage.master.cs">
+      <DependentUpon>MasterPage.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="scholarships.aspx.cs">
+      <DependentUpon>scholarships.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="scholarships.aspx.designer.cs">
+      <DependentUpon>scholarships.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="searchbook.aspx.cs">
+      <DependentUpon>searchbook.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="searchbook.aspx.designer.cs">
+      <DependentUpon>searchbook.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Student.aspx.cs">
+      <DependentUpon>Student.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Student.aspx.designer.cs">
+      <DependentUpon>Student.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Students.Master.cs">
+      <DependentUpon>Students.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Students.Master.designer.cs">
+      <DependentUpon>Students.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Upload.ashx.cs">
+      <DependentUpon>Upload.ashx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="obj\Debug\TempPE\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Account\Web.config" />
+    <Content Include="Site.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AASSHH.Master" />
+    <Content Include="About.Master" />
+    <Content Include="Admin\Admin.Master" />
+    <None Include="css\font\BebasNeue-webfont.eot" />
+    <None Include="css\font\BebasNeue-webfont.svg" />
+    <None Include="css\font\BebasNeue-webfont.ttf" />
+    <None Include="css\font\BebasNeue-webfont.woff" />
+    <None Include="css\font\fontomas-webfont.eot" />
+    <None Include="css\font\fontomas-webfont.svg" />
+    <None Include="css\font\fontomas-webfont.ttf" />
+    <None Include="css\font\fontomas-webfont.woff" />
+    <None Include="css\font\franchise-bold-webfont.eot" />
+    <None Include="css\font\franchise-bold-webfont.svg" />
+    <None Include="css\font\franchise-bold-webfont.ttf" />
+    <None Include="css\font\franchise-bold-webfont.woff" />
+    <Content Include="educationMaster.Master" />
+    <Content Include="MasterPage.master" />
+    <Content Include="Students.Master" />
+    <Content Include="Upload.ashx" />
+    <Content Include="FileHandler.ashx" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <Content Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>53637</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

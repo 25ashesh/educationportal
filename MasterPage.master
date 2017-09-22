@@ -1,0 +1,160 @@
+<%@ Master Language="C#" CodeFile="MasterPage.master.cs" Inherits="MasterPage" EnableViewState="false" %><!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>educationportal</title>
+    <link rel="stylesheet" href="master_style.css" />
+    <link rel="shortcut icon" href="../favicon.ico"/> 
+    <link rel="stylesheet"  type="text/css" href="~/css/demo.css" />
+    <link rel="stylesheet"  type="text/css" href="~/css/style.css" />
+	<link rel="stylesheet"  type="text/css" href="~/css/animate-custom.css" />
+
+    <link href="css/verticalMenu_styles.css" rel="stylesheet" type="text/css" />
+    <link href="css/jquery-ui.css" rel="stylesheet" />
+    <link href="css/s3Slider.css" rel="stylesheet" />
+    <script type="text/javascript" src="scripts/jquery-1.9.1.js"></script>
+    <script type="text/javascript" src="scripts/jquery-1.8.2.intellisense.js"></script>
+
+    <script type="text/javascript" src="scripts/jquery-ui.js"></script>
+    <script type="text/javascript" src="scripts/jquery.ui.accordion.js"></script>
+
+    <script type="text/javascript" src="scripts/tabs.js"></script>
+    <script  type="text/javascript" src="scripts/s3Slider.js"></script>
+    <script  type="text/javascript" src="scripts/sliderFunction.js"></script>
+
+     <script type="text/javascript" src="scripts/bannerscollection_zoominout.js"/>
+
+    <script type="text/javascript" src="scripts/jquery.ui.touch-punch.min.js"/>
+
+    <asp:ContentPlaceHolder id="Head" runat="server" />
+
+ 
+         <script type="text/javascript">
+            $(document).ready(function () {
+                $("#accordion").accordion({
+                    event: "mouseover",
+                    colapsible: true
+                })
+            });
+        </script>
+        
+
+    <meta name="keywords" content="educationportal ebooks questionbanks download notes projects apexcollege collegesearch scholarships internships jobs find ebooks find notes studentsforum"/> 
+    <meta name="description" content="Free learning materials, e-books, notes, questionbanks, projects, discussion forum, nepal, apexcollege, upload ebooks, educationportal"/> 
+
+
+</head>
+<body>
+    <form runat="server">
+    <div class="BackgroundGradient"> </div>
+    <div class="BodyContent">
+
+    <div class="BorderBorder"><div class="BorderBL"><div></div></div><div class="BorderBR"><div></div></div><div class="BorderTL"></div><div class="BorderTR"><div></div></div><div class="BorderT"></div><div class="BorderR"><div></div></div><div class="BorderB"><div></div></div><div class="BorderL"></div><div class="BorderC"></div><div class="Border">
+
+        <div class="Header">
+          <div class="HeaderTitle">
+            <asp:Image ImageUrl="~/images/educationportal_final2.png" AlternateText="Logo" runat="server"/>
+
+          </div>
+        </div>
+        
+
+        <div class="MenuHorizontal">
+
+
+            <header>
+                <nav class="codrops-top">
+                    <div id="nav_ed">
+                    <a href="Default.aspx"><img src="images/home.png" /><br/>Home</a>
+                    <a href="About.aspx"><img src="images/info.png" /><br/>About</a>
+
+                    <a id="go_back" href="javascript:history.go(-1)"><img src="images/back.png" /><br/>Back</a>
+                    </div>
+				</nav>
+            </header>
+        
+            
+
+        </div>
+
+
+        <!--left Search box-->
+        <div class="Columns">
+        <div class="Column1">
+        <div class="BlockBorder"><div class="BlockBL"><div></div></div><div class="BlockBR"><div></div></div><div class="BlockTL"></div><div class="BlockTR"><div></div></div><div class="BlockT"></div><div class="BlockR"><div></div></div><div class="BlockB"><div></div></div><div class="BlockL"></div><div class="BlockC"></div><div class="Block">
+
+            <span class="BlockHeader"><span><img alt="loginlogo" src="images/logo_lock2.png"/>&nbsp;&nbsp;&nbsp;Login</span></span>
+                              <p class="change_link" style=" float:center; font-size:17px;font-family:Arial;">
+                                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:LinkButton ID="LinkButton1"  runat="server"><a href="Login.aspx" style="color:Purple;">Login Here</asp:LinkButton>
+                                </p><br/>
+                                <p  class="change_link">
+									Not Registered ?
+									<a href="Joinin.aspx" style="color:Purple;">Sign Up</a>
+							</p>
+        </div></div>
+           <div>
+         <div class="BlockBorder"><div class="BlockBL"><div></div></div><div class="BlockBR"><div></div></div><div class="BlockTL"></div><div class="BlockTR"><div></div></div><div class="BlockT"></div><div class="BlockR"><div></div></div><div class="BlockB"><div></div></div><div class="BlockL"></div><div class="BlockC"></div><div class="Block">
+             
+            <a style="color:Green;" href="http://www.internshipnepal.com/" target="_blank">Internships</a>|<a style="color:Maroon;" href="http://www.merojob.com/" target="_blank">Jobs</a>|<a style="color:Green;" href="#">Trainings</a>
+        </div></div></div>
+
+            <!--right quick link-->
+            <div class="BlockBorder"><div class="BlockBL"><div></div></div><div class="BlockBR"><div></div></div><div class="BlockTL"></div><div class="BlockTR"><div></div></div><div class="BlockT"></div><div class="BlockR"><div></div></div><div class="BlockB"><div></div></div><div class="BlockL"></div><div class="BlockC"></div><div class="Block">
+
+            <span class="BlockHeader3"><span>Quick Links</span></span>
+            <div class="BlockContentBorder">
+
+                <ul>
+                        <li><span class="BlockHeader3"><span><a href="#">Events</a></span></span></li>
+                        <li><span class="BlockHeader3"><span><a href="#">Colleges</a></span></span></li>
+                        <li><span class="BlockHeader3"><span><a href="http://www.learnerstv.com/" target="_blank">Tutorials</a></span></span></li>
+                        <li><span class="BlockHeader3"><span><a href="#">Study Tips</a></span></span></li>
+                        <li><span class="BlockHeader3"><span><a href="http://www.nepalscholarship.com/" target="_blank">Scholarships</a></span></span></li>
+                        <li><span class="BlockHeader3"><span><a href="#">Entertainments</a></span></span></li>
+                    
+                </ul>
+
+            </div>
+
+        </div></div>
+
+
+        </div>
+        
+    <!--Main content-->
+    <div class="MainColumn">
+        <div class="ArticleBorder"><div class="ArticleBL"><div></div></div><div class="ArticleBR"><div></div></div><div class="ArticleTL"></div><div class="ArticleTR"><div></div></div><div class="ArticleT"></div><div class="ArticleR"><div></div></div><div class="ArticleB"><div></div></div><div class="ArticleL"></div><div class="ArticleC"></div><div class="Article">
+
+            <asp:ContentPlaceHolder id="Content" runat="server" />
+
+        </div>
+        </div></div>
+        </div>
+        </div>
+        <div class="Footer">
+            <asp:ContentPlaceHolder id="Footer" runat="server" />
+            
+              <div class="codrops-demo">
+                <a href="#">
+                    <strong>&laquo; Previous: </strong>
+                </a>
+                  
+                  <a href="#" >&copy; educationportal</a>
+                <span class="right">
+                    <a href="#">
+                        <strong>Log Out</strong>
+                    </a>
+                </span>
+                <div class="clr"></div>
+            </div>
+
+        </div>                
+
+    </div>
+
+    </div>
+
+
+    <asp:ContentPlaceHolder id="AfterBody" runat="server" />
+    </form>
+</body>
+</html>

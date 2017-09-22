@@ -1,0 +1,94 @@
+.VertMenuCustomize {
+    top: -50px;
+    max-width: 30px;
+}
+
+
+
+/*.example_ed {
+    margin: -30px 1px 10px 20px;
+    position: relative;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+}*/
+/* main menu styles */
+#nav_ed,#nav_ed ul {
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+#nav_ed {
+    margin:auto;
+    height:25px;
+    padding-left:5px;
+    padding-top:5px;
+    position:relative;
+    z-index:2;
+}
+#nav_ed ul {
+    left:-9999px;
+    position:absolute;
+    top:37px;
+    width:auto;
+}
+#nav_ed ul ul {
+    font-size:small;
+    left:-9999px;
+    position:absolute;
+    top:0;
+    width:auto;
+}
+#nav_ed li {
+    float:left;
+    margin-right:5px;
+    position:relative;
+}
+#nav_ed li a {
+    background:#996699;
+    color:#ccffcc;
+    display:block;
+    float:left;
+    font-size:16px;
+    padding:8px 10px;
+    text-decoration:none;
+}
+#nav_ed > li > a {
+    -moz-border-radius:6px;
+    -webkit-border-radius:6px;
+    -o-border-radius:6px;
+    border-radius:6px;
+
+    overflow:hidden;
+}
+#nav_ed li a.fly_ed {
+    background:#996699 url(../images/arrow.gif) no-repeat right center;
+    padding-right:15px;
+}
+#nav_ed ul li {
+    margin:0;
+}
+#nav_ed ul li a {
+    width:120px;
+}
+#nav_ed ul li a.fly_ed {
+    padding-right:10px;
+}
+
+/*hover styles*/
+#nav_ed li:hover > a {
+    background-color:#ccffcc;
+    color:#000;
+}
+
+/*focus styles*/
+    #nav_ed li a:focus {
+    outline-width:0;
+}
+
+/*popups*/
+#nav_ed li a:active + ul.dd_ed,#nav_ed li a:focus + ul.dd_ed,#nav_ed li ul.dd_ed:hover {
+    left:0;
+}
+#nav_ed ul.dd_ed li a:active + ul,#nav_ed ul.dd_ed li a:focus + ul,#nav_ed ul.dd_ed li ul:hover {
+    left:140px;
+}

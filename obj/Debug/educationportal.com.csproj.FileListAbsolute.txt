@@ -1,0 +1,325 @@
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\4. win 7 day 4\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\4. win 7 day 4\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\4. win 7 day 4\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\4. win 7 day 4\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\5. win 7 day 5\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\5. win 7 day 5\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\5. win 7 day 5\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\5. win 7 day 5\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\6. win 7 day 6\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\6. win 7 day 6\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\6. win 7 day 6\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\6. win 7 day 6\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\7. win 7 day 7\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\7. win 7 day 7\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\7. win 7 day 7\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\7. win 7 day 7\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\7. win 7 day 7\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\8. win 7 day8\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\8. win 7 day8\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\8. win 7 day8\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\8. win 7 day8\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\8. win 7 day8\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day 2\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day 2\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day 2\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day 2\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day 2\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day 3\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day 3\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day 3\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day 3\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day 3\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day4 College Search\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day4 College Search\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day4 College Search\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day4 College Search\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day4 College Search\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\day5\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\day5\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\day5\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\day5\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\day5\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\day5 - Assembling Started\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\day5 - Assembling Started\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\day5 - Assembling Started\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\day5 - Assembling Started\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\day5 - Assembling Started\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day4\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day4\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day4\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day4\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day4\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day5\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day5\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day5\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day5\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day5\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day6\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day6\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day6\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day6\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day6\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day7\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day7\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day7\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day7\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day8 - chat\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day8 - chat\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day8 - chat\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day8 - chat\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day8 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day8 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day8 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day8 - chat\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day8 - chat\educationportal.com\educationportal.com\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day8 - chat\educationportal.com\educationportal.com\bin\Newtonsoft.Json.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day8 - chat\educationportal.com\educationportal.com\bin\Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day8 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day8 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day8 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day8 - chat\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day8 - chat\educationportal.com\educationportal.com\bin\Newtonsoft.Json.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day8 - chat\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day9 - chat\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day9 - chat\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day9 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day9 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day9 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day9 - chat\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day9 - chat\educationportal.com\educationportal.com\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day9 - chat\educationportal.com\educationportal.com\bin\Newtonsoft.Json.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day9 - chat\educationportal.com\educationportal.com\bin\Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day9 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day9 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day9 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day9 - chat\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day9 - chat\educationportal.com\educationportal.com\bin\Newtonsoft.Json.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day9 - chat\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day9 - chat\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day9 - chat\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day10 - chat\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day10 - chat\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day10 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day10 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day10 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day10 - chat\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day10 - chat\educationportal.com\educationportal.com\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day10 - chat\educationportal.com\educationportal.com\bin\Newtonsoft.Json.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day10 - chat\educationportal.com\educationportal.com\bin\Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day10 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day10 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day10 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day10 - chat\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day10 - chat\educationportal.com\educationportal.com\bin\Newtonsoft.Json.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day10 - chat\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day10 - chat\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day10 - chat\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Newtonsoft.Json.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Newtonsoft.Json.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Newtonsoft.Json.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\bin\Newtonsoft.Json.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day11 - chat\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day12\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day12\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day12\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day12\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day12\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day12\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day12\educationportal.com\educationportal.com\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day12\educationportal.com\educationportal.com\bin\Newtonsoft.Json.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day12\educationportal.com\educationportal.com\bin\Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day12\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day12\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day12\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day12\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day12\educationportal.com\educationportal.com\bin\Newtonsoft.Json.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day12\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day12\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day12\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day13\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day13\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day13\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day13\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day13\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day13\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day13\educationportal.com\educationportal.com\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day13\educationportal.com\educationportal.com\bin\Newtonsoft.Json.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day13\educationportal.com\educationportal.com\bin\Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day13\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day13\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day13\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day13\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day13\educationportal.com\educationportal.com\bin\Newtonsoft.Json.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day13\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day13\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day13\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day14 design\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day14 design\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day14 design\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day14 design\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day14 design\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day14 design\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day14 design\educationportal.com\educationportal.com\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day14 design\educationportal.com\educationportal.com\bin\Newtonsoft.Json.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day14 design\educationportal.com\educationportal.com\bin\Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day14 design\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day14 design\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day14 design\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day14 design\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day14 design\educationportal.com\educationportal.com\bin\Newtonsoft.Json.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day14 design\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day14 design\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day14 design\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day15\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day15\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day15\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day15\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day15\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day15\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day15\educationportal.com\educationportal.com\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day15\educationportal.com\educationportal.com\bin\Newtonsoft.Json.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day15\educationportal.com\educationportal.com\bin\Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day15\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day15\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day15\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day15\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day15\educationportal.com\educationportal.com\bin\Newtonsoft.Json.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day15\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day15\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day15\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16\educationportal.com\educationportal.com\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16\educationportal.com\educationportal.com\bin\Newtonsoft.Json.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16\educationportal.com\educationportal.com\bin\Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16\educationportal.com\educationportal.com\bin\Newtonsoft.Json.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16 - Copy\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16 - Copy\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16 - Copy\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16 - Copy\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16 - Copy\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16 - Copy\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16 - Copy\educationportal.com\educationportal.com\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16 - Copy\educationportal.com\educationportal.com\bin\Newtonsoft.Json.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16 - Copy\educationportal.com\educationportal.com\bin\Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16 - Copy\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16 - Copy\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16 - Copy\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16 - Copy\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16 - Copy\educationportal.com\educationportal.com\bin\Newtonsoft.Json.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16 - Copy\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16 - Copy\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day16 - Copy\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day17 last\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day17 last\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day17 last\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day17 last\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day17 last\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day17 last\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day17 last\educationportal.com\educationportal.com\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day17 last\educationportal.com\educationportal.com\bin\Newtonsoft.Json.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day17 last\educationportal.com\educationportal.com\bin\Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day17 last\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day17 last\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day17 last\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day17 last\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day17 last\educationportal.com\educationportal.com\bin\Newtonsoft.Json.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day17 last\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day17 last\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day18\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day18\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day18\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day18\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day18\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day18\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day18\educationportal.com\educationportal.com\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day18\educationportal.com\educationportal.com\bin\Newtonsoft.Json.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day18\educationportal.com\educationportal.com\bin\Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day18\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day18\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day18\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day18\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day18\educationportal.com\educationportal.com\bin\Newtonsoft.Json.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day18\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day18\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day18\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day19\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day19\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day19\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day19\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day19\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day19\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day19\educationportal.com\educationportal.com\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day19\educationportal.com\educationportal.com\bin\Newtonsoft.Json.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day19\educationportal.com\educationportal.com\bin\Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day19\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day19\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day19\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day19\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day19\educationportal.com\educationportal.com\bin\Newtonsoft.Json.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day19\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day19\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\week i\Finally All Combined - day19\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Educationportal\educationportal\educationportal.com\educationportal.com\bin\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Educationportal\educationportal\educationportal.com\educationportal.com\bin\educationportal.com.pdb
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Educationportal\educationportal\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Educationportal\educationportal\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Educationportal\educationportal\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Educationportal\educationportal\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Educationportal\educationportal\educationportal.com\educationportal.com\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Educationportal\educationportal\educationportal.com\educationportal.com\bin\Newtonsoft.Json.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Educationportal\educationportal\educationportal.com\educationportal.com\bin\Owin.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Educationportal\educationportal\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Educationportal\educationportal\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Educationportal\educationportal\educationportal.com\educationportal.com\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Educationportal\educationportal\educationportal.com\educationportal.com\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Educationportal\educationportal\educationportal.com\educationportal.com\bin\Newtonsoft.Json.xml
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Educationportal\educationportal\educationportal.com\educationportal.com\obj\Debug\educationportal.com.csprojResolveAssemblyReference.cache
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Educationportal\educationportal\educationportal.com\educationportal.com\obj\Debug\educationportal.com.dll
+C:\Users\ashesh\Documents\Visual Studio 2010\Projects\Educationportal\educationportal\educationportal.com\educationportal.com\obj\Debug\educationportal.com.pdb
